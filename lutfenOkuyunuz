@@ -1,2 +1,30 @@
-# NetworkAttackSim
- Bu kod, eğitim ve araştırma amaçlıdır.
+Bu kod, eğitim ve araştırma amaçlıdır. Bu kod, bilgisayar korsanları tarafından kötü amaçlarla kullanılabilir ve ağ güvenliği açısından ciddi bir tehdit oluşturabilir. 
+
+Kodda şunlar vardır;
+Bu Python kodu ARP (Adres Çözümleme Protokolü) ve DHCP (Dinamik Ana Bilgisayar Yapılandırma Protokolü) saldırılarını gerçekleştirebilir. İşlevleri şunlardır:
+
+ARP Zehirleme Saldırısı: Bu saldırı, ağdaki hedef makinenin ARP tablosunu değiştirerek, hedefin doğru IP adresine sahip olduğu yanılsamasını yaratır. Bu, saldırganın ağ trafiğini izlemesine ve hatta değiştirmesine olanak tanır.
+
+DHCP Zehirleme Saldırısı: Bu saldırı, DHCP sunucusuna olan istemleri değiştirerek, sahte DHCP yanıtları göndererek veya DHCP isteklerini engelleyerek ağdaki cihazların IP adresi alma işlemini engeller veya etkiler. Bu, ağdaki trafiği manipüle etmek için kullanılabilir.
+
+DNS Zehirleme Saldırısı: DNS (Alan Adı Sistemi) sorgularını izleyerek ve değiştirerek çalışabilir. Bu saldırı, DNS yanıtlarını değiştirerek kullanıcıları sahte web sitelerine yönlendirebilir.
+
+MITM (Orta Adam) Saldırısı: Bu saldırı, saldırganın ağdaki iki taraf arasında bir adam orta olarak konumlanmasını sağlar. Bu, saldırganın ağ trafiğini dinlemesine ve hatta değiştirmesine olanak tanır.
+
+Session Hijacking (Oturum Kaçırma): Bu saldırı, saldırganın mevcut oturumu ele geçirmesine ve kontrol etmesine olanak tanır. Örneğin, bir web oturumunu ele geçirerek kullanıcının hesabına erişebilir.
+
+Kodun okunabilirliği: Kodunuz nispeten okunaklı ve anlaşılır bir şekilde yazılmıştır.
+Hata ayıklama ve loglama: Kodda hata ayıklama ve loglama için bazı temel işlemler mevcut.
+Güvenlik ve izinler: Kodda güvenlik ve izinler için bazı temel önlemler mevcut.
+
+Gelişmesi gereken özellikler:
+
+Kullanıcı dostu arayüz: Komut satırı argümanları yerine daha kullanıcı dostu bir arayüz,
+Çoklu saldırı: Aynı anda birden fazla saldırı türünü gerçekleştirme seçeneği,
+Hedef ve saldırı türüne göre özelleştirme: Farklı hedefler ve saldırı türleri için özel kodlar ve fonksiyonlar eklemek,
+Güvenlik ve izinler: Kodun izinsiz kullanımı ve saldırılar için gerekli güvenlik önlemleri daha da gelişilebilir,
+Hata ayıklama ve loglama: Hata ayıklama ve loglama işlemlerini daha kapsamlı bir şekilde gelişebilir.
+
+
+
+
