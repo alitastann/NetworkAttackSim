@@ -8,6 +8,19 @@ Ağ Güvenliği Yasaları: Birçok ülkede, ağ güvenliği ve siber suçlarla i
 Yasal Kullanım Alanları: Ancak, bu tür kodlar yasal ve etik çerçevede bazı durumlarda kullanılabilir. Örneğin, ağ güvenliği testleri, güvenlik açıklarını tespit etmek ve gidermek için bu tür araçlar kullanılabilir.
 Bu nedenle, bu tür kodların kullanımıyla ilgili hukuki boyutlar dikkate alınmalı ve ilgili yasalara uyulmalıdır.
 
+-------
+This code is for educational and research purposes. It can be used by hackers for malicious purposes and pose a serious threat to network security. 
+
+The legal dimension of this code:
+Illegal Use: Such codes can be used for unauthorized network entry or network attacks. In this case, the use of the code may be illegal and may have legal consequences.
+Computer Fraud and Abuse: The use of such codes may be considered within the scope of computer fraud or abuse and may constitute a crime according to the relevant laws.
+Violation of Personal Data: Unauthorized seizure of information obtained through the use of the code or violation of personal data may be contrary to personal data protection laws.
+Network Security Laws: In many countries, there are specific laws related to network security and cybercrime. The use of such codes may be contrary to the relevant laws.
+Legal Uses: However, such codes may be used in some cases within a legal and ethical framework. For example, network security tests, such tools can be used to detect and troubleshoot vulnerabilities.
+Therefore, the legal aspects related to the use of such codes should be taken into account and the relevant laws should be followed.
+--------------------
+
+
 Kodda şunlar vardır;
 
 Bu Python kodu ARP (Adres Çözümleme Protokolü) ve DHCP (Dinamik Ana Bilgisayar Yapılandırma Protokolü) saldırılarını gerçekleştirebilir. İşlevleri şunlardır:
