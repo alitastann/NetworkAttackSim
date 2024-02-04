@@ -1,6 +1,15 @@
-Bu kod, eğitim ve araştırma amaçlıdır. Bu kod, bilgisayar korsanları tarafından kötü amaçlarla kullanılabilir ve ağ güvenliği açısından ciddi bir tehdit oluşturabilir. 
+Bu kod, eğitim ve araştırma amaçlıdır. Hacker'lar tarafından kötü amaçlarla kullanılabilir ve ağ güvenliği açısından ciddi bir tehdit oluşturabilir. 
+
+Bu kodun hukuki boyutu:
+Yasa Dışı Kullanım: Bu tür kodlar, izinsiz ağ girişi veya ağ saldırıları için kullanılabilir. Bu durumda, kodun kullanımı yasa dışı olabilir ve hukuki sonuçları olabilir.
+Bilgisayar Dolandırıcılığı ve Suistimal: Bu tür kodların kullanımı, bilgisayar dolandırıcılığı veya suistimal kapsamında değerlendirilebilir ve ilgili yasalara göre suç teşkil edebilir.
+Kişisel Verilerin İhlali: Kodun kullanımıyla elde edilen bilgilerin izinsiz olarak ele geçirilmesi veya kişisel verilerin ihlal edilmesi, kişisel veri koruma yasalarına aykırı olabilir.
+Ağ Güvenliği Yasaları: Birçok ülkede, ağ güvenliği ve siber suçlarla ilgili özel yasalar bulunmaktadır. Bu tür kodların kullanımı, ilgili yasalara aykırı olabilir.
+Yasal Kullanım Alanları: Ancak, bu tür kodlar yasal ve etik çerçevede bazı durumlarda kullanılabilir. Örneğin, ağ güvenliği testleri, güvenlik açıklarını tespit etmek ve gidermek için bu tür araçlar kullanılabilir.
+Bu nedenle, bu tür kodların kullanımıyla ilgili hukuki boyutlar dikkate alınmalı ve ilgili yasalara uyulmalıdır.
 
 Kodda şunlar vardır;
+
 Bu Python kodu ARP (Adres Çözümleme Protokolü) ve DHCP (Dinamik Ana Bilgisayar Yapılandırma Protokolü) saldırılarını gerçekleştirebilir. İşlevleri şunlardır:
 
 ARP Zehirleme Saldırısı: Bu saldırı, ağdaki hedef makinenin ARP tablosunu değiştirerek, hedefin doğru IP adresine sahip olduğu yanılsamasını yaratır. Bu, saldırganın ağ trafiğini izlemesine ve hatta değiştirmesine olanak tanır.
@@ -24,6 +33,8 @@ Kullanıcı dostu arayüz: Komut satırı argümanları yerine daha kullanıcı 
 Hedef ve saldırı türüne göre özelleştirme: Farklı hedefler ve saldırı türleri için özel kodlar ve fonksiyonlar eklemek,
 Güvenlik ve izinler: Kodun izinsiz kullanımı ve saldırılar için gerekli güvenlik önlemleri daha da gelişilebilir,
 Hata ayıklama ve loglama: Hata ayıklama ve loglama işlemlerini daha kapsamlı bir şekilde gelişebilir.
+
+Umarım en yakın zamanda bunlar da eklenir :)
 
 
 
