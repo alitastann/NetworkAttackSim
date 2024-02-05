@@ -35,9 +35,9 @@ MITM (Orta Adam) Saldırısı: Bu saldırı, saldırganın ağdaki iki taraf ara
 
 Session Hijacking (Oturum Kaçırma): Bu saldırı, saldırganın mevcut oturumu ele geçirmesine ve kontrol etmesine olanak tanır. Örneğin, bir web oturumunu ele geçirerek kullanıcının hesabına erişebilir.
 
-Kodun okunabilirliği: Kodunuz nispeten okunaklı ve anlaşılır bir şekilde yazılmıştır.
+Kodun okunabilirliği: Kod nispeten okunaklı ve anlaşılır bir şekilde yazılmıştır.
 Hata ayıklama ve loglama: Kodda hata ayıklama ve loglama için bazı temel işlemler mevcut.
-Güvenlik ve izinler: Kodda güvenlik ve izinler için bazı temel önlemler mevcut.
+Güvenlik ve izinler: Kodda güvenlik ve izinler için bazı temel önlemler mevcuttur fakat yeterli değildir.
 
 Gelişmesi gereken özellikler:
 
@@ -48,6 +48,9 @@ Güvenlik ve izinler: Kodun izinsiz kullanımı ve saldırılar için gerekli g�
 Hata ayıklama ve loglama: Hata ayıklama ve loglama işlemlerini daha kapsamlı bir şekilde gelişebilir.
 
 Umarım en yakın zamanda bunlar da eklenir :)
+Teşekkürler, 
+
+                                               Ali Taştan
 
 
 
